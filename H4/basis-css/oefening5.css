@@ -1,0 +1,21 @@
+/** {    padding: 0;    margin: 0;    box-sizing: border-box;}*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: #8DAEC6
+
+}
+
+.yellow{
+    color: #FFE14F
+}
+
+section{
+    border: 2px solid #FFE14F;
+    width: 35%;
+    margin: auto;
+}

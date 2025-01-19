@@ -1,0 +1,446 @@
+.group-child {
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    border-radius: 30px;
+    width: 98px;
+    height: 32.8px;
+}
+.back {
+    position: absolute;
+    top: 0px;
+    left: 27px;
+    line-height: 140%;
+    display: inline-block;
+    width: 63px;
+    height: 36px;
+}
+.vector-parent {
+    position: absolute;
+    top: 3px;
+    left: 7px;
+    width: 98px;
+    height: 38.8px;
+    cursor: pointer;
+    font-size: 36px;
+    font-family: Jomhuria;
+}
+.about-me {
+    position: absolute;
+    top: 32px;
+    left: 773px;
+    line-height: 140%;
+    display: inline-block;
+    width: 167px;
+    height: 62px;
+    cursor: pointer;
+}
+.skills {
+    position: absolute;
+    top: 32px;
+    left: 965px;
+    line-height: 140%;
+    display: inline-block;
+    width: 105px;
+    height: 62px;
+    cursor: pointer;
+}
+.projects {
+    position: absolute;
+    top: 32px;
+    left: 1083px;
+    line-height: 140%;
+    display: inline-block;
+    width: 158px;
+    height: 62px;
+    cursor: pointer;
+}
+.contact {
+    position: absolute;
+    top: 32px;
+    left: 1241px;
+    line-height: 140%;
+    display: inline-block;
+    width: 137px;
+    height: 62px;
+    cursor: pointer;
+}
+.portfolio-melissa-child {
+    position: absolute;
+    top: -98px;
+    left: -249px;
+    border-radius: 50%;
+    background-color: #cea5d8;
+    width: 914.5px;
+    height: 924.1px;
+    transform:  rotate(4.6deg);
+    transform-origin: 0 0;
+}
+.image-icon {
+    position: absolute;
+    top: 85px;
+    left: 48px;
+    width: 471.9px;
+    height: 627.4px;
+    object-fit: contain;
+}
+.portfolio-melissa-inner {
+    position: absolute;
+    top: 1629px;
+    left: -340.67px;
+    border-radius: 50%;
+    background-color: #cea5d8;
+    width: 883.1px;
+    height: 855.2px;
+    transform:  rotate(4.6deg);
+    transform-origin: 0 0;
+}
+.ellipse-div {
+    position: absolute;
+    top: 3307px;
+    left: -238.67px;
+    border-radius: 50%;
+    background-color: #cea5d8;
+    width: 848.4px;
+    height: 855.2px;
+    transform:  rotate(4.6deg);
+    transform-origin: 0 0;
+}
+.line-icon {
+    position: absolute;
+    top: 852px;
+    left: 0px;
+    width: 1453px;
+    height: 10px;
+    object-fit: contain;
+}
+.portfolio-melissa-child1 {
+    position: absolute;
+    top: 1651px;
+    left: 0px;
+    width: 1453px;
+    height: 10px;
+    object-fit: contain;
+}
+.portfolio-melissa-child2 {
+    position: absolute;
+    top: 2511px;
+    left: -12px;
+    width: 1453px;
+    height: 10px;
+    object-fit: contain;
+}
+.portfolio-melissa-child3 {
+    position: absolute;
+    top: 3337px;
+    left: 0px;
+    width: 1453px;
+    height: 1px;
+    object-fit: contain;
+}
+.hello-everyone {
+    position: absolute;
+    top: 184px;
+    left: 650px;
+    font-size: 96px;
+    line-height: 140%;
+    display: inline-block;
+    width: 630px;
+    height: 109px;
+}
+.im-melissa-gney {
+    position: absolute;
+    top: 335px;
+    left: 900px;
+    font-size: 64px;
+    line-height: 140%;
+    display: inline-block;
+    width: 458px;
+    height: 72px;
+}
+.hi-im-melissa {
+    position: absolute;
+    top: 1330px;
+    left: 98px;
+    font-size: 36px;
+    line-height: 140%;
+    display: inline-block;
+    width: 893px;
+    height: 299px;
+}
+.and-im-a {
+    margin: 0;
+}
+.and-im-a-container {
+    position: absolute;
+    top: 444px;
+    left: 663px;
+    font-size: 64px;
+    line-height: 140%;
+    display: inline-block;
+    width: 739px;
+    height: 159px;
+}
+.home {
+    position: absolute;
+    top: 31px;
+    left: 652px;
+    line-height: 140%;
+    color: #cea5d8;
+    display: inline-block;
+    width: 99px;
+    height: 64px;
+}
+.line-div {
+    position: absolute;
+    top: 76.5px;
+    left: 649.5px;
+    border-top: 1px solid #cea5d8;
+    box-sizing: border-box;
+    width: 94px;
+    height: 1px;
+}
+.portfolio-melissa-child4 {
+    position: absolute;
+    top: 827px;
+    left: 1031.67px;
+    border-radius: 50%;
+    background-color: #cea5d8;
+    width: 694.1px;
+    height: 797px;
+    transform:  rotate(4.6deg);
+    transform-origin: 0 0;
+}
+.portfolio-melissa-child5 {
+    position: absolute;
+    top: 2484.41px;
+    left: 974.78px;
+    border-radius: 50%;
+    background-color: #cea5d8;
+    width: 714.1px;
+    height: 827px;
+    transform:  rotate(4.6deg);
+    transform-origin: 0 0;
+}
+.image-16-icon {
+    position: absolute;
+    top: 11.59px;
+    left: 16.04px;
+    width: 114.1px;
+    height: 114.1px;
+    object-fit: cover;
+}
+.image-17-icon {
+    position: absolute;
+    top: 11.59px;
+    left: 194.32px;
+    width: 113.2px;
+    height: 113.2px;
+    object-fit: cover;
+}
+.image-18-icon {
+    position: absolute;
+    top: 0px;
+    left: 341.4px;
+    width: 134.6px;
+    height: 134.6px;
+    object-fit: cover;
+}
+.image-19-icon {
+    position: absolute;
+    top: 150.64px;
+    left: 0px;
+    width: 146.2px;
+    height: 146.2px;
+    object-fit: cover;
+}
+.image-20-icon {
+    position: absolute;
+    top: 160.45px;
+    left: 184.52px;
+    width: 125.7px;
+    height: 123px;
+    object-fit: cover;
+}
+.image-21-icon {
+    position: absolute;
+    top: 160.45px;
+    left: 346.75px;
+    width: 129.3px;
+    height: 125.7px;
+    object-fit: cover;
+}
+.image-16-parent {
+    position: absolute;
+    top: 2177px;
+    left: 703px;
+    width: 476px;
+    height: 296.8px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 2552px;
+    left: 71px;
+    border-radius: 45px;
+    background-color: #c7a6c6;
+    width: 790px;
+    height: 358px;
+}
+.school-project {
+    position: absolute;
+    top: 2559px;
+    left: 98px;
+    font-size: 48px;
+    line-height: 140%;
+    color: #111;
+    display: inline-block;
+    width: 312px;
+    height: 90px;
+}
+.portfolio-melissa-child6 {
+    position: absolute;
+    top: 2941px;
+    left: 71px;
+    border-radius: 45px;
+    background-color: #c7a6c6;
+    width: 790px;
+    height: 358px;
+}
+.school-project1 {
+    position: absolute;
+    top: 2945px;
+    left: 98px;
+    font-size: 48px;
+    line-height: 140%;
+    color: #000;
+    display: inline-block;
+    width: 312px;
+    height: 90px;
+}
+.contact1 {
+    position: absolute;
+    top: 3662px;
+    left: 44px;
+    font-size: 140px;
+    line-height: 140%;
+    color: #000;
+    display: inline-block;
+    width: 454px;
+    height: 142px;
+}
+.logoxx-3-icon {
+    position: absolute;
+    top: 2559px;
+    left: 696px;
+    width: 176px;
+    height: 61px;
+    object-fit: cover;
+}
+.image-22-icon {
+    position: absolute;
+    top: 2605px;
+    left: 719px;
+    border-radius: 25px;
+    width: 130px;
+    height: 292px;
+    object-fit: cover;
+}
+.for-our-ui {
+    position: absolute;
+    top: 2635px;
+    left: 98px;
+    font-size: 26px;
+    display: inline-block;
+    width: 551px;
+    height: 260px;
+}
+.image-23-icon {
+    position: absolute;
+    top: 3014px;
+    left: 557px;
+    border-radius: 25px;
+    width: 292px;
+    height: 211px;
+    object-fit: cover;
+}
+.for-our-work-based {
+    position: absolute;
+    top: 3043px;
+    left: 110px;
+    font-size: 24px;
+    display: inline-block;
+    width: 447px;
+    height: 238px;
+}
+.portfolio-melissa-child7 {
+    position: absolute;
+    top: 3522px;
+    left: 752px;
+    border-radius: 30px;
+    background-color: #c7a6c6;
+    width: 537px;
+    height: 141px;
+}
+.portfolio-melissa-child8 {
+    position: absolute;
+    top: 3977px;
+    left: 681px;
+    border-radius: 30px;
+    background-color: #c7a6c6;
+    width: 679px;
+    height: 141px;
+}
+.get-in-touch {
+    position: absolute;
+    top: 3537px;
+    left: 806px;
+    font-size: 85px;
+    line-height: 140%;
+    display: inline-block;
+    width: 487px;
+    height: 88px;
+}
+.portfolio-melissa-child9 {
+    position: absolute;
+    top: 3707px;
+    left: 649px;
+    border-radius: 30px;
+    background-color: #c7a6c6;
+    width: 760px;
+    height: 226px;
+}
+.contact-me-for {
+    position: absolute;
+    top: 3733px;
+    left: 682px;
+    font-size: 60px;
+    line-height: 140%;
+    text-align: center;
+    display: inline-block;
+    width: 695px;
+    height: 181px;
+}
+.melissaguney1905gmailcom {
+    position: absolute;
+    top: 3998px;
+    left: 791px;
+    font-size: 50px;
+    line-height: 140%;
+    text-align: center;
+    display: inline-block;
+    width: 611px;
+    height: 90px;
+}
+.portfolio-melissa {
+    width: 100%;
+    position: relative;
+    background-color: #876d8d;
+    height: 4198px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 40px;
+    color: #fff;
+    font-family: Fresca;
+}
+
+/** {    padding: 0;    margin: 0;    box-sizing: border-box;}*/

@@ -1,0 +1,61 @@
+
+p, h1{
+    color: red;
+    background-color: black;
+}
+
+.primary-color{
+    color: purple;
+}
+
+
+#hoofding{
+
+}
+
+.blauw{
+    background-color: blue;
+}
+
+nav div a{
+    font-size: 30px;
+}
+
+.third-article div{
+    background-color: yellow;
+}
+
+a:hover{
+    color: orange;
+    text-decoration: none;
+}
+
+a:link{
+
+}
+
+a:visited{
+
+}
+
+a:active{
+    background-color: darkblue;
+}
+
+nav{
+    width: 70vw;
+}
+
+.half{
+    width: 50%;
+    color: rgb(168, 94, 50);
+    background-color: #323ea8;
+    font-family: "Roboto", Arial, serif;
+}
+
+
+
+
+
+
+
